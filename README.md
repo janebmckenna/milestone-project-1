@@ -1,39 +1,58 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+#Ashley & Hannahs Vow Renewal
+***
+[View Live project here](https://www.projectaddress.com)
 
-Welcome,
+Ashley & Hannahs Vow Renewal is a site that provides Wedding Day information for the friends and family of the couple. The website displays photos of the celebration which happened during COVID, informtation for guests coming to their renewal and collects RSVPs. 
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+<!-- insert mock ups here -->
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+## Index – Table of Contents
+***
+- [Index – Table of Contents](#index--table-of-contents)
+- [User Experience UX](#user-experience-ux)
+  - [Strategy](#strategy)
+  - [Customers: Hannah and Ashley](#customers-hannah-and-ashley)
+  - [Users:](#users)
+  - [User Stories:](#user-stories)
+- [Features](#features)
+- [Design](#design)
+- [Technologies Used](#technologies-used)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
 
-## Codeanywhere Reminders
+## User Experience UX
+***
+### Strategy
+I need to provide an intuitive and informative website for the vow renewal of Hannah and Ashley.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+### Customers: Hannah and Ashley
+Website provides them with a means to communicate the details of their vow renewal, capture RSVPs and share content from the first time around.
 
-`python3 -m http.server`
+### Users: 
+Users are close friends and family of Hannah and Ashley they are interested in their story, viewing their pictures, RSVPing to their invite and the details of the day what to expect and what accomodation is convienient 
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### User Stories:
+As a FIRST TIME user of the site I want to be able to:
+* Intuitively and easily navigate the site to find content.
+* Respond with my RSVP.
+* Be able to establish the particulars and timings of the vow renewal.
+* Browse the photos of the original Wedding Day.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+As a RETURNING user of the site I want to be able to:
+* Confirm timings and arrangements for the day.
+* Find links to accomodation and venues.
+* Browse the photos of the original Wedding Day.
 
-`http_server`
+## Features
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Design
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Technologies Used
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Testing
 
-To log into the Heroku toolbelt CLI:
+## Deployment
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+## Credits
+bootstrap?
