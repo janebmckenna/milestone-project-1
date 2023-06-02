@@ -1,0 +1,16 @@
+<style>@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Roboto+Mono:wght@200;400&display=swap');
+</style>
+#logo{
+   font-family: "Dancing+Script:wght700" sans-serif;
+   background-color: red;
+}
+#hero{
+    background-image: url(../images/Hannah-Ashley-300.jpg);
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
