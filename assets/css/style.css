@@ -1,16 +1,41 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Roboto+Mono:wght@200;400&display=swap');
 
-
-/* ------------ Header -------------- */
-#logo{
-    font-family: 'Dancing Script', cursive;
-    font-size: 3em;
-    color: darkgrey;
-    padding-left: 20px;
+/* ----- Colors -----  */
+body{
+    background-color: rgba(0, 102, 111, 0.99);
+}
+a{
+    color: black;
+}
+#intro-text{
+    color: #B4ABA8;
+}
+form label{
+    color: #B4ABA8;
+    margin-bottom: 1px;
+    margin-top: 10px;
+}
+form p{
+    color: #B4ABA8;
+    margin-bottom: 0%;
+    margin-top: 10px;
 }
 
-/* ------------- Images ------------------ */
-#hero{
+/* ------------ Header -------------- */
+.logo{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    color: #B4ABA8;
+    padding-left: 20px;
+}
+nav {
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+/* 
+------------- Images ------------------ */
+/* #hero{
     background-color: rgba(218, 198, 213, 0.9);
     width: 100%;
     height: 800px;
@@ -26,4 +51,13 @@
     width: 100%;
     text-align: center;
     overflow: hidden;
+} */
+.rsvp-photos{
+    height: 300px;
+    width: auto;
+    align-items: center;
+}
+
+footer{
+    text-align: center;
 }
