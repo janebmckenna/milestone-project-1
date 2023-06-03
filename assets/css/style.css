@@ -1,16 +1,29 @@
-<style>@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Roboto+Mono:wght@200;400&display=swap');
-</style>
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Roboto+Mono:wght@200;400&display=swap');
+
+
+/* ------------ Header -------------- */
 #logo{
-   font-family: "Dancing+Script:wght700" sans-serif;
-   background-color: red;
+    font-family: 'Dancing Script', cursive;
+    font-size: 3em;
+    color: darkgrey;
+    padding-left: 20px;
 }
+
+/* ------------- Images ------------------ */
 #hero{
-    background-image: url(../images/Hannah-Ashley-300.jpg);
+    background-color: rgba(218, 198, 213, 0.9);
     width: 100%;
     height: 800px;
     background-size: cover;
     background-repeat: no-repeat;
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
+    position: relative;
+    left: 100%;
+    margin-left: -200%;
+}
+
+#hero-outer{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
 }
