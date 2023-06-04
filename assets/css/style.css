@@ -150,3 +150,6 @@ footer {
     margin: 50px auto;
 
 }
+.navbar-toggler-icon{
+    z-index: 110;
+}
