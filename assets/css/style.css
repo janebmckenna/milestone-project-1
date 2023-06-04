@@ -60,6 +60,22 @@ nav {
     text-align: center;
     overflow: hidden;
 } */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photos img {
+    width: 100%;
+}
+@media screen and (max-width: 943px) {
+    #photos {
+    column-count: 2;
+    }
+}
 .rsvp-photos {
     height: 300px;
     width: auto;
