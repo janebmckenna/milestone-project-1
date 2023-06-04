@@ -1,39 +1,46 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Roboto+Mono:wght@200;400&display=swap');
 
 /* ----- Colors -----  */
-body{
+body {
     background-color: rgba(0, 102, 111, 0.99);
-    min-height: 100vh;
+    min-height: 100%vh;
+    height: 100vh;
 }
-a{
-    color: black;
+
+a {
+    color: white;
 }
-#intro-text{
-    color: #B4ABA8;
+
+#intro-text {
+    color: white;
 }
-form label{
-    color: #B4ABA8;
+
+form label {
+    color: white;
     margin-bottom: 1px;
     margin-top: 10px;
 }
-form p{
-    color: #B4ABA8;
+
+form p {
+    color: white;
     margin-bottom: 0%;
     margin-top: 10px;
 }
 
 /* ------------ Header -------------- */
-.logo{
+.logo {
     font-family: 'Dancing Script', cursive;
     font-size: 40px;
     color: #B4ABA8;
     padding-left: 20px;
 }
+
 nav {
     width: 100%;
     margin: 0%;
     padding: 0%;
 }
+
 /* 
 ------------- Images ------------------ */
 /* #hero{
@@ -53,28 +60,36 @@ nav {
     text-align: center;
     overflow: hidden;
 } */
-.rsvp-photos{
+.rsvp-photos {
     height: 300px;
     width: auto;
     align-items: center;
+    padding: 10px;
 }
 
-footer{
+footer {
     text-align: center;
     margin-top: auto;
 }
 
 /* ----- Plan for the day -----  */
-
+.renewal-date{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    margin-top: 20px;
+}
 .plan-heading {
-    color: #fafafa;
+    color: white;
     margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 10px;
 }
 
 .plan-item {
     padding: 4em 2em 0em 2em;
     position: relative;
-    color: #fafafa;
+    color: white;
     border-left: 1px solid;
 }
 
@@ -109,5 +124,13 @@ footer{
 }
 
 .plan-items {
-    margin-bottom: 30px;
+    margin-bottom: 50px;
+}
+
+/* ----- Positioning -----  */
+#wedding-video{
+    text-align: center;
+    display: block;
+    margin: 50px auto;
+
 }
