@@ -3,8 +3,9 @@
 /* ----- Colors -----  */
 body {
     background-color: rgba(0, 102, 111, 0.99);
-    min-height: 100%vh;
-    height: 100vh;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 a {
@@ -33,6 +34,15 @@ form p {
     font-size: 40px;
     color: #B4ABA8;
     padding-left: 20px;
+}
+
+#footer-logo {
+    font-size: 25px;
+}
+
+footer {
+    margin-top: auto;
+    text-align: right;
 }
 
 nav {
@@ -71,11 +81,13 @@ nav {
 #photos img {
     width: 100%;
 }
+
 @media screen and (max-width: 943px) {
     #photos {
-    column-count: 2;
+        column-count: 2;
     }
 }
+
 .rsvp-photos {
     height: 300px;
     width: auto;
@@ -89,12 +101,13 @@ footer {
 }
 
 /* ----- Plan for the day -----  */
-.renewal-date{
+.renewal-date {
     color: white;
     font-family: 'Dancing Script', cursive;
     font-size: 40px;
     margin-top: 20px;
 }
+
 .plan-heading {
     color: white;
     margin-bottom: 50px;
@@ -144,12 +157,13 @@ footer {
 }
 
 /* ----- Positioning -----  */
-#wedding-video{
+#wedding-video {
     text-align: center;
     display: block;
     margin: 50px auto;
 
 }
-.navbar-toggler-icon{
+
+.navbar-toggler-icon {
     z-index: 110;
 }
