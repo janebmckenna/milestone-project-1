@@ -1,4 +1,4 @@
-#Ashley & Hannahs Vow Renewal
+# Ashley & Hannahs Vow Renewal
 ***
 [View Live project here](https://www.projectaddress.com)
 
@@ -8,23 +8,33 @@ Ashley & Hannahs Vow Renewal is a site that provides Wedding Day information for
 
 ## Index – Table of Contents
 ***
-- [Index – Table of Contents](#index--table-of-contents)
-- [User Experience UX](#user-experience-ux)
-  - [Strategy](#strategy)
-  - [Customers: Hannah and Ashley](#customers-hannah-and-ashley)
-  - [Users:](#users)
-  - [User Stories:](#user-stories)
-- [Features](#features)
-- [Design](#design)
-- [Technologies Used](#technologies-used)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Credits](#credits)
+- [Ashley \& Hannahs Vow Renewal](#ashley--hannahs-vow-renewal)
+  - [Index – Table of Contents](#index--table-of-contents)
+  - [User Experience UX](#user-experience-ux)
+    - [Strategy](#strategy)
+    - [Customers: Hannah and Ashley](#customers-hannah-and-ashley)
+    - [Users:](#users)
+    - [User Stories:](#user-stories)
+  - [UX Scope](#ux-scope)
+    - [Features](#features)
+    - [Future Improvements](#future-improvements)
+  - [UX Structure](#ux-structure)
+    - [Navigation and Header](#navigation-and-header)
+  - [UX Skeleton](#ux-skeleton)
+    - [Design Choices](#design-choices)
+    - [Wireframes](#wireframes)
+      - [Mobile view 576px](#mobile-view-576px)
+      - [Tablet view 768px](#tablet-view-768px)
+      - [Desktop view 1200px](#desktop-view-1200px)
+  - [Technologies Used](#technologies-used)
+  - [Testing](#testing)
+  - [Deployment](#deployment)
+  - [Credits](#credits)
 
 ## User Experience UX
 ***
 ### Strategy
-I need to provide an intuitive and informative website for the vow renewal of Hannah and Ashley.
+The goal is to  to provide a simple, intuitive and informative website for the vow renewal of Hannah and Ashley. Which guests will navigate easily to respond to their invitation, find useful information and browse images of the original wedding day during the covid 19 pandemic.
 
 ### Customers: Hannah and Ashley
 Website provides them with a means to communicate the details of their vow renewal, capture RSVPs and share content from the first time around.
@@ -44,9 +54,37 @@ As a RETURNING user of the site I want to be able to:
 * Find links to accomodation and venues.
 * Browse the photos of the original Wedding Day.
 
-## Features
+## UX Scope 
+### Features
 
-## Design
+### Future Improvements
+These features are beyond the scope of this project but I would look to include for the final live version of the site
+- Active RSVP form.
+- Guestbook to allow guests to comment and post well wishes. 
+
+## UX Structure
+
+### Navigation and Header
+
+## UX Skeleton
+
+### Design Choices
+
+### Wireframes
+#### Mobile view 576px
+![home](assets/wireframes/index.html%20(576px).png) ![plan](assets/wireframes/plan.html%20(576px).png)
+<br>
+![gallery](assets/wireframes/gallery.html%20(576px).png) ![RSVP](assets/wireframes/rsvp.html%20(576px)%20.png)
+
+#### Tablet view 768px
+![home](assets/wireframes/index.html%20(768px).png) ![plan](assets/wireframes/plan.html%20(768px).png)
+<br>
+![gallery](assets/wireframes/gallery.html%20(768px).png) ![RSVP](assets/wireframes/rsvp.html%20(768px).png)
+
+#### Desktop view 1200px
+![home](assets/wireframes/index.html%20(1200px).png) ![plan](assets/wireframes/plan.html%20(1200px).png)
+<br>
+![gallery](assets/wireframes/gallery.html%20(1200px).png) ![RSVP](assets/wireframes/rsvp.html%20(1200px).png)
 
 ## Technologies Used
 
