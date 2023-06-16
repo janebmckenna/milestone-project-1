@@ -4,6 +4,7 @@
 body {
     background-color: rgba(0, 102, 111, 0.99);
     min-height: 100vh;
+    max-width: 100vw;
     display: flex;
     flex-direction: column;
 }
@@ -79,7 +80,7 @@ nav {
 }
 
 .rsvp-photos {
-    height: 300px;
+    height: 250px;
     width: auto;
     align-items: center;
     padding: 10px;
@@ -178,5 +179,10 @@ nav li {
 
 .intro-header {
     margin: 15px 0 5px;
-    padding: 50px;
+    padding: 20px;
+}
+
+.accom-photo{
+    width: 150px;
+    height: auto;
 }
