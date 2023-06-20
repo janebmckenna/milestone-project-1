@@ -1,6 +1,6 @@
 # Ashley & Hannahs Vow Renewal
 ***
-[View Live project here](https://www.projectaddress.com)
+[View Live project here](https://janebmckenna.github.io/milestone-project-1/)
 
 Ashley & Hannahs Vow Renewal is a site that provides Wedding Day information for the friends and family of the couple. The website displays photos of the celebration which happened during COVID, informtation for guests coming to their renewal and collects RSVPs. 
 

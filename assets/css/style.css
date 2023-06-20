@@ -31,11 +31,14 @@ form p {
 }
 
 /* ------------ Header -------------- */
-.logo {
+nav .logo {
     font-family: 'Dancing Script', cursive;
     font-size: 35px;
     color: #B4ABA8;
     padding-left: 15px;
+}
+#navigation-items{
+    color: white;
 }
 
 #footer-logo {
@@ -180,7 +183,6 @@ nav li {
 
 .intro-header {
     margin: 15px 0 5px;
-    padding: 20px;
 }
 
 .accom-photo{
@@ -189,5 +191,6 @@ nav li {
 }
 
 #submit-text{
+    margin-top: 50px;
     text-align: center;
 }
