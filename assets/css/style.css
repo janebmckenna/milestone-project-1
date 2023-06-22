@@ -29,9 +29,9 @@ form p {
     margin-bottom: 0%;
     margin-top: 10px;
 }
-#accom-suggestions{
-    
-}
+
+#accom-suggestions {}
+
 /* ------------ Header -------------- */
 nav .logo {
     font-family: 'Dancing Script', cursive;
@@ -39,9 +39,11 @@ nav .logo {
     color: #B4ABA8;
     padding-left: 15px;
 }
-nav #navigation-items{
+
+nav #navigation-items {
     color: white;
 }
+
 nav {
     width: 100%;
     margin: 0%;
@@ -59,6 +61,7 @@ footer {
     padding-top: 50px;
     margin-top: auto;
     text-align: right;
+    padding-bottom: 20px;
 }
 
 /* ------------ Photos -------------- */
@@ -155,6 +158,7 @@ footer {
     margin: 50px auto;
 
 }
+
 .navbar-toggler-icon {
     z-index: 110;
 }
@@ -181,12 +185,19 @@ nav li {
     margin: 15px 0 5px;
 }
 
-.accom-photo{
+.accom-photo {
     width: 150px;
     height: auto;
 }
 
-#submit-text{
+#submit-text {
     margin-top: 50px;
     text-align: center;
+}
+
+/* ----- Hover styling -----  */
+
+a:hover {
+    color: black;
+    background-color: #fafafa;
 }
