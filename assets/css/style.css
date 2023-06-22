@@ -199,5 +199,5 @@ nav li {
 
 a:hover {
     color: black;
-    background-color: #fafafa;
+    background-color: rgba(0, 102, 111, 0.5);
 }
