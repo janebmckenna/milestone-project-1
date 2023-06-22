@@ -24,7 +24,7 @@ Ashley & Hannahs Vow Renewal is a site that provides Wedding Day information for
   - [UX Skeleton](#ux-skeleton)
     - [Design Choices](#design-choices)
     - [Wireframes](#wireframes)
-      - [Mobile view 576px](#mobile-view-576px)
+      - [Mobile view 579px](#mobile-view-579px)
       - [Tablet view 768px](#tablet-view-768px)
       - [Desktop view 1200px](#desktop-view-1200px)
   - [Technologies Used](#technologies-used)
@@ -72,21 +72,21 @@ These features are beyond the scope of this project but I would look to include 
 ### Design Choices
 
 ### Wireframes
-#### Mobile view 576px
-![home](assets/wireframes/index.html%20(576px).png) ![plan](assets/wireframes/plan.html%20(576px).png)
+#### Mobile view 579px
+<!-- ![home](assets/wireframes/index.html%20(576px).png) ![plan](assets/wireframes/plan.html%20(576px).png)
 <br>
-![gallery](assets/wireframes/gallery.html%20(576px).png) ![RSVP](assets/wireframes/rsvp.html%20(576px)%20.png)
-
+![gallery](assets/wireframes/gallery.html%20(576px).png) ![RSVP](assets/wireframes/rsvp.html%20(576px)%20.png) -->
+![Page images of mobile view](assets/wireframes/Mobile%20view%20579px.png)
 #### Tablet view 768px
-![home](assets/wireframes/index.html%20(768px).png) ![plan](assets/wireframes/plan.html%20(768px).png)
+<!-- ![home](assets/wireframes/index.html%20(768px).png) ![plan](assets/wireframes/plan.html%20(768px).png)
 <br>
-![gallery](assets/wireframes/gallery.html%20(768px).png) ![RSVP](assets/wireframes/rsvp.html%20(768px).png)
-
+![gallery](assets/wireframes/gallery.html%20(768px).png) ![RSVP](assets/wireframes/rsvp.html%20(768px).png) -->
+![Page images of tablet view 768px](assets/wireframes/Tablet%20view%20678px.png)
 #### Desktop view 1200px
-![home](assets/wireframes/index.html%20(1200px).png) ![plan](assets/wireframes/plan.html%20(1200px).png)
+<!-- ![home](assets/wireframes/index.html%20(1200px).png) ![plan](assets/wireframes/plan.html%20(1200px).png)
 <br>
-![gallery](assets/wireframes/gallery.html%20(1200px).png) ![RSVP](assets/wireframes/rsvp.html%20(1200px).png)
-
+![gallery](assets/wireframes/gallery.html%20(1200px).png) ![RSVP](assets/wireframes/rsvp.html%20(1200px).png) -->
+![Page images in Desktop view 1200px](assets/wireframes/Desktop%20view%201200px.png)
 ## Technologies Used
 
 ## Testing
