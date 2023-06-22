@@ -204,6 +204,10 @@ h5{
     margin-top: 20px;
 }
 
+.foot-link{
+    padding-right: 5px;
+}
+
 /* ----- Hover styling -----  */
 
 a:hover {
