@@ -96,6 +96,9 @@ footer {
 }
 
 /* ----- Plan for the day -----  */
+.plan{
+    padding: 5px;
+}
 .renewal-date {
     color: white;
     font-family: 'Dancing Script', cursive;
@@ -198,6 +201,6 @@ nav li {
 /* ----- Hover styling -----  */
 
 a:hover {
-    color: black;
+    color: #fafafa;
     background-color: rgba(0, 102, 111, 0.5);
 }
