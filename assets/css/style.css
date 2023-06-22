@@ -190,12 +190,18 @@ nav li {
 
 .accom-photo {
     width: 150px;
-    height: auto;
+    height: 100px;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 #submit-text {
     margin-top: 50px;
     text-align: center;
+}
+h5{
+    margin-top: 20px;
 }
 
 /* ----- Hover styling -----  */
