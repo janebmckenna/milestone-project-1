@@ -30,7 +30,10 @@ form p {
     margin-top: 10px;
 }
 
-#accom-suggestions {}
+#accom-suggestions {
+    background-color: rgba(0,0,0,0.1);
+    padding: 40px;
+}
 
 /* ------------ Header -------------- */
 nav .logo {
@@ -216,12 +219,15 @@ h5{
 .map{
     padding: 10px;
     position: relative;
+    min-height: 120px;
 }
 
 .map iframe{
     height: 80%;
     width: 80%;
+    min-height: 100px;
     position: absolute;
+    padding: 2px;
 }
 /* ----- Hover styling -----  */
 
