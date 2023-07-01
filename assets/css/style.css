@@ -15,7 +15,18 @@ a {
 }
 
 #intro-text {
+    padding: 20px;
     color: white;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+#intro-text h3{
+    font-family: 'Dancing Script', cursive;
+}
+
+#intro-text p{
+    font-size: large;
 }
 
 form label {
@@ -214,7 +225,7 @@ h5{
 .plan-location{
     margin: auto;
     padding: 20px;
-    background-color: rgba(10, 63, 67, 0.828);
+    background-color: rgba(0, 0, 0, 0.1);
 }
 .map{
     padding: 10px;
@@ -229,9 +240,29 @@ h5{
     position: absolute;
     padding: 2px;
 }
-/* ----- Hover styling -----  */
+/* ----- Hover styling/ animation -----  */
 
 a:hover {
     color: #fafafa;
     background-color: rgba(0, 102, 111, 0.5);
 }
+
+.hero-outer{
+    width: 100vw;
+    height: auto;
+    overflow: hidden;
+}
+#hero{
+    overflow: hidden;
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hero-zoom{
+  from{
+    transform: scale(1);
+  }
+  to{
+    transform: scale(1.1);
+  }
