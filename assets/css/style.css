@@ -159,7 +159,7 @@ footer {
     text-align: center;
     display: block;
     margin: 50px auto;
-
+    border: 3px solid #A3CFCD;
 }
 
 .navbar-toggler-icon {
@@ -208,6 +208,21 @@ h5{
     padding-right: 5px;
 }
 
+.plan-location{
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(10, 63, 67, 0.828);
+}
+.map{
+    padding: 10px;
+    position: relative;
+}
+
+.map iframe{
+    height: 80%;
+    width: 80%;
+    position: absolute;
+}
 /* ----- Hover styling -----  */
 
 a:hover {
