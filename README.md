@@ -17,14 +17,6 @@ Ashley & Hannahs Vow Renewal is a site that provides Wedding Day information for
   - [**User Stories:**](#user-stories)
   - [UX Scope](#ux-scope)
     - [Exisiting Features](#exisiting-features)
-  - [-**Navigation Bar**](#-navigation-bar)
-  - [-**Home Page - Hero Image and Introductary Text**](#-home-page---hero-image-and-introductary-text)
-  - [-**Home Page - Wedding Video**](#-home-page---wedding-video)
-  - [-**Footer**](#-footer)
-  - [-**The Plan**](#-the-plan)
-  - [-**Accomodation Suggestions**](#-accomodation-suggestions)
-  - [-**RSVP**](#-rsvp)
-  - [-**Gallery**](#-gallery)
     - [Future Improvements](#future-improvements)
   - [UX Structure](#ux-structure)
     - [Navigation and Header](#navigation-and-header)
@@ -69,44 +61,44 @@ _As a RETURNING user of the site I want to be able to:_
 ### Exisiting Features
 
 -**Navigation Bar**
----
-    - Featured on all pages the design and layout of the navigation are consitent on each page. 
-    - On Mobile or small/medium screens there is a toggle button for the Navigation options. Users are familiar with this approach and it will be intituitve for them to use. 
-    - On desktop or large screen devices the naigation is expanded to show all the page options and the current page is subtly highlighted. 
-    - The Navigation will allow users to easily navigate the site without having to using the back button within the browser. 
+
+- Featured on all pages the design and layout of the navigation are consitent on each page. 
+- On Mobile or small/medium screens there is a toggle button for the Navigation options. Users are familiar with this approach and it will be intituitve for them to use. 
+- On desktop or large screen devices the naigation is expanded to show all the page options and the current page is subtly highlighted. 
+- The Navigation will allow users to easily navigate the site without having to using the back button within the browser. 
 
 -**Home Page - Hero Image and Introductary Text**
----
-    - Provides a striking image of Ashley and Hannah imediately when the site is opened and sets the tone for the site. 
-    - Provides a clear explanation of why the vow renewal is happening and asks the user to join the celebration. 
+
+- Provides a striking image of Ashley and Hannah imediately when the site is opened and sets the tone for the site. 
+- Provides a clear explanation of why the vow renewal is happening and asks the user to join the celebration. 
 
 -**Home Page - Wedding Video**
----
-    - Builds excitement by showing the highlights of the original Wedding day.
-    - Gives a taste of what to expect to those who couldn't be at the original day.
+
+- Builds excitement by showing the highlights of the original Wedding day.
+- Gives a taste of what to expect to those who couldn't be at the original day.
 
 -**Footer**
----
-    - Provides easy access to links for the two venues for the day, the links will open in new tabs to aid user experience. 
-    - On large screens and desktops the date fo the Vow Renewal will also display. 
+
+- Provides easy access to links for the two venues for the day, the links will open in new tabs to aid user experience. 
+- On large screens and desktops the date fo the Vow Renewal will also display. 
 
 -**The Plan**
----
-    - Provides details of the date, location and timings of the Vow Renewal. 
-    - Where and when the various aspects will occur.
-    - Full address and google maps links for the venues to make planning easier for guests. 
+
+- Provides details of the date, location and timings of the Vow Renewal. 
+- Where and when the various aspects will occur.
+- Full address and google maps links for the venues to make planning easier for guests. 
 
 -**Accomodation Suggestions**
----
-    - This will provide a list of a few suggestions for local accomodation including contact details and also a link to booking.com where additional options can be found. 
+
+- This will provide a list of a few suggestions for local accomodation including contact details and also a link to booking.com where additional options can be found. 
 
 -**RSVP**
----
-    - This will allow users to respond to their invite to the wedding, provide suggestions for great dancefloor music and inform of any dietry requirements they may have. 
+
+- This will allow users to respond to their invite to the wedding, provide suggestions for great dancefloor music and inform of any dietry requirements they may have. 
 
 -**Gallery**
----
-    - This section will allow users to get a feel for what the day was like last time and importantly view photos Ashley and Hannahs special day.
+
+- This section will allow users to get a feel for what the day was like last time and importantly view photos Ashley and Hannahs special day.
 
 ### Future Improvements
 
