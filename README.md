@@ -142,7 +142,8 @@ These features are beyond the scope of this project but I would look to include 
 
 ## Testing
 
-![Table of Manual Testing](assets/testing/Screenshot 2023-07-02 at 16.56.54.png)
+![Table of Manual Testing](assets/testing/Screenshot%2023-07-02%at%16.56.54.png)
+
 **Lighthouse Audit**
 
 When I initially ran the lighthouse audit I found issues with my images sizes impacting load time, I rectified this by resizing the images and changing the format from .img to .WebP.
