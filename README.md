@@ -138,7 +138,7 @@ One error and one warning was returned when tested through direct input on Jigsa
 ![Jigsaw Validator Result](assets/testing/Screenshot%202023-07-02%20at%2011.28.17.png)
 
 ## Deployment
-The Website has been deployed using GitHub Pages [Here](https://janebmckenna.github.io/milestone-project-1/) using the method below. 
+The Website has been deployed using GitHub Pages [Here](https://janebmckenna.github.io/milestone-project-1/) using the method below: 
 - I logged into my GitHub account.
 - I opened my repository for this site. 
 - Within the respositary I selected 'Settings'
@@ -147,4 +147,15 @@ The Website has been deployed using GitHub Pages [Here](https://janebmckenna.git
 - I then saved the options to deploy the site. 
 
 ## Credits
-bootstrap?
+
+**Content**
+
+- I used [colormind.io](http://colormind.io/) to decide on the colour scheme of the site. I wanted the pallete to fit with the imagery I intended to use.
+- Icons were sourced from [Font Awesome](https://fontawesome.com)
+- My fonts were taken from [Google Fonts](https://fonts.google.com/)
+- [Bootstrap Version 4.3](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+
+**Images**
+
+All images used within the project came from personal sources. The wedding imagery is from Ashley and Hannahs Wedding and was used with their permission. The three accomodation images were sourced from the marketing department at work and used with their blessing to create ficticous accomodation in Mohill. 
+I thank my sister Hannah, brother in law Ashley and Marketing Manager Ross for their assistance in providing photography. 
