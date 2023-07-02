@@ -153,7 +153,7 @@ When I initially ran the lighthouse audit I found issues with my images sizes im
 - HTML
 
 No errors were returned when passing through the W3C validator 
-![W3C Validator result](assets/testing/Screenshot%202023-07-02%20at%2011.23.04.png)
+![W3C Validator result](assets/testing/m-testing.png)
 
 - CSS
 
