@@ -142,7 +142,7 @@ These features are beyond the scope of this project but I would look to include 
 
 ## Testing
 
-![Table of Manual Testing](assets/testing/Screenshot%2023-07-02%at%16.56.54.png)
+![Table of Manual Testing](assets/testing/m-testing.png)
 
 **Lighthouse Audit**
 
@@ -153,7 +153,7 @@ When I initially ran the lighthouse audit I found issues with my images sizes im
 - HTML
 
 No errors were returned when passing through the W3C validator 
-![W3C Validator result](assets/testing/m-testing.png)
+![W3C Validator result](assets/testing/Screenshot%202023-07-02%20at%2011.23.04.png)
 
 - CSS
 
