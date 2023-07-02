@@ -2,7 +2,7 @@
 ***
 [View Live project here](https://janebmckenna.github.io/milestone-project-1/)
 
-Ashley & Hannahs Vow Renewal is a site that provides Wedding Day information for the friends and family of the couple. The website displays photos of the celebration which happened during COVID, informtation for guests coming to their renewal and collects RSVPs. 
+Ashley & Hannahs Vow Renewal is a site that provides Wedding Day information for the friends and family of the couple. The website displays photos of the celebration which happened during COVID, information for guests coming to their renewal and collects RSVPs. 
 
 ![Mock Up](assets/images/Ashley%20%26%20Hannah%20diff%20viewports.png)
 
@@ -12,7 +12,7 @@ Ashley & Hannahs Vow Renewal is a site that provides Wedding Day information for
   - [Index – Table of Contents](#index--table-of-contents)
   - [User Experience UX](#user-experience-ux)
   - [UX Scope](#ux-scope)
-    - [Exisiting Features](#exisiting-features)
+    - [Existing Features](#existing-features)
     - [Future Improvements](#future-improvements)
   - [UX Structure](#ux-structure)
     - [Navigation and Header](#navigation-and-header)
@@ -35,7 +35,7 @@ Website provides them with a means to communicate the details of their vow renew
 
 **Users:**
 
-Users are close friends and family of Hannah and Ashley they are interested in their story, viewing their pictures, RSVPing to their invite, the details of the day, what to expect and what accomodation is convienient 
+Users are close friends and family of Hannah and Ashley they are interested in their story, viewing their pictures, RSVPing to their invite, the details of the day, what to expect and what accommodation is convenient 
 
 **User Stories:**
 
@@ -47,49 +47,67 @@ _As a FIRST TIME user of the site I want to be able to:_
 
 _As a RETURNING user of the site I want to be able to:_
 * Confirm timings and arrangements for the day.
-* Find links to accomodation and venues.
+* Find links to accommodation and venues.
 * Browse the photos of the original Wedding Day.
 
 ## UX Scope 
-### Exisiting Features
+### Existing Features
 
 **Navigation Bar**
 
-- Featured on all pages the design and layout of the navigation are consitent on each page. 
-- On Mobile or small/medium screens there is a toggle button for the Navigation options. Users are familiar with this approach and it will be intituitve for them to use. 
-- On desktop or large screen devices the naigation is expanded to show all the page options and the current page is subtly highlighted. 
+![Nav Bar](assets/testing/IMG_9702.jpeg)
+![Nav Bar Expanded](assets/testing/IMG_9703.jpeg)
+
+- Featured on all pages the design and layout of the navigation are consistent on each page. 
+- On Mobile or small/medium screens there is a toggle button for the Navigation options. Users are familiar with this approach and it will be intuitive for them to use. 
+- On desktop or large screen devices the navigation is expanded to show all the page options and the current page is subtly highlighted. 
 - The Navigation will allow users to easily navigate the site without having to using the back button within the browser. 
 
-**Home Page - Hero Image and Introductary Text**
+**Home Page - Hero Image and Introductory Text**
 
-- Provides a striking image of Ashley and Hannah imediately when the site is opened and sets the tone for the site. 
+![Home Page](assets/testing/IMG_9705.jpeg)
+
+- Provides a striking image of Ashley and Hannah immediately when the site is opened and sets the tone for the site. 
 - Provides a clear explanation of why the vow renewal is happening and asks the user to join the celebration. 
 
 **Home Page - Wedding Video**
+
+![Wedding Video](assets/testing/IMG_9706.jpeg)
 
 - Builds excitement by showing the highlights of the original Wedding day.
 - Gives a taste of what to expect to those who couldn't be at the original day.
 
 **Footer**
 
+![Footer](assets/testing/IMG_9707.jpeg)
+
 - Provides easy access to links for the two venues for the day, the links will open in new tabs to aid user experience. 
 - On large screens and desktops the date fo the Vow Renewal will also display. 
 
 **The Plan**
 
+![Plan](assets/testing/IMG_9708.jpeg)
+![Plan](assets/testing/IMG_9709.jpeg)
+
 - Provides details of the date, location and timings of the Vow Renewal. 
 - Where and when the various aspects will occur.
 - Full address and google maps links for the venues to make planning easier for guests. 
 
-**Accomodation Suggestions**
+**Accommodation Suggestions**
 
-- This will provide a list of a few suggestions for local accomodation including contact details and also a link to booking.com where additional options can be found. 
+![Accommodation](assets/testing/IMG_9710.jpeg)
 
-**RSVP**
+- This will provide a list of a few suggestions for local accommodation including contact details and also a link to booking.com where additional options can be found. 
 
-- This will allow users to respond to their invite to the wedding, provide suggestions for great dancefloor music and inform of any dietry requirements they may have. 
+**RSVP Form**
 
-**Gallery**
+![RSVP](assets/testing/IMG_9711.jpeg)
+
+- This will allow users to respond to their invite to the wedding, provide suggestions for great dance floor music and inform of any dietary requirements they may have. 
+
+**Photo Gallery**
+
+![Gallery](assets/testing/IMG_9712.jpeg)
 
 - This section will allow users to get a feel for what the day was like last time and importantly view photos Ashley and Hannahs special day.
 
@@ -124,16 +142,20 @@ These features are beyond the scope of this project but I would look to include 
 
 ## Testing
 
+**Lighthouse Audit**
+
+When I initially ran the lighthouse audit I found issues with my images sizes impacting load time, I rectified this by resizing the images and changing the format from .img to .WebP.
+
 **Validator Testing**
 
 - HTML
 
-No errors were returned when passing through the W3C vaidator 
-![W3C Vaidator result](assets/testing/Screenshot%202023-07-02%20at%2011.23.04.png)
+No errors were returned when passing through the W3C validator 
+![W3C Validator result](assets/testing/Screenshot%202023-07-02%20at%2011.23.04.png)
 
 - CSS
 
-When I initally passed the site through the Jigsaw Validator it returned alot of errors originating from bootstrap/java script. I made the decission to test me CSS directly through direct input on the validator. 
+When I initially passed the site through the Jigsaw Validator it returned a lot of errors originating from bootstrap/java script. I made the decision to test me CSS directly through direct input on the validator. 
 One error and one warning was returned when tested through direct input on Jigsaw. 
 ![Jigsaw Validator Result](assets/testing/Screenshot%202023-07-02%20at%2011.28.17.png)
 
@@ -141,8 +163,8 @@ One error and one warning was returned when tested through direct input on Jigsa
 The Website has been deployed using GitHub Pages [Here](https://janebmckenna.github.io/milestone-project-1/) using the method below: 
 - I logged into my GitHub account.
 - I opened my repository for this site. 
-- Within the respositary I selected 'Settings'
-- I naviagted to 'Pages' within 'Settings'
+- Within the repository I selected 'Settings'
+- I navigated to 'Pages' within 'Settings'
 - I selected 'Deploy from a branch' from the source menu then the 'Main' branch along with the 'root' folder.
 - I then saved the options to deploy the site. 
 
@@ -150,12 +172,18 @@ The Website has been deployed using GitHub Pages [Here](https://janebmckenna.git
 
 **Content**
 
-- I used [colormind.io](http://colormind.io/) to decide on the colour scheme of the site. I wanted the pallete to fit with the imagery I intended to use.
+- I used [colormind.io](http://colormind.io/) to decide on the colour scheme of the site. I wanted the palette to fit with the imagery I intended to use.
 - Icons were sourced from [Font Awesome](https://fontawesome.com)
 - My fonts were taken from [Google Fonts](https://fonts.google.com/)
 - [Bootstrap Version 4.3](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+- Wireframes were created using [Balsamiq](https://balsamiq.com/)
 
 **Images**
 
-All images used within the project came from personal sources. The wedding imagery is from Ashley and Hannahs Wedding and was used with their permission. The three accomodation images were sourced from the marketing department at work and used with their blessing to create ficticous accomodation in Mohill. 
+All images used within the project came from personal sources. The wedding imagery is from Ashley and Hannahs Wedding and was used with their permission. The three accommodation images were sourced from the marketing department at work and used with their blessing to create fictitious accommodation in Mohill. 
 I thank my sister Hannah, brother in law Ashley and Marketing Manager Ross for their assistance in providing photography. 
+
+**Advice**
+
+Thank you to my mentor for all the help and advice he has offered including:
+- An elegant solution for form submission on a static site. 
