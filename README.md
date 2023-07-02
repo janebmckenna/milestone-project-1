@@ -142,6 +142,7 @@ These features are beyond the scope of this project but I would look to include 
 
 ## Testing
 
+![Table of Manual Testing](assets/testing/Screenshot 2023-07-02 at 16.56.54.png)
 **Lighthouse Audit**
 
 When I initially ran the lighthouse audit I found issues with my images sizes impacting load time, I rectified this by resizing the images and changing the format from .img to .WebP.
@@ -177,6 +178,28 @@ The Website has been deployed using GitHub Pages [Here](https://janebmckenna.git
 - My fonts were taken from [Google Fonts](https://fonts.google.com/)
 - [Bootstrap Version 4.3](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 - Wireframes were created using [Balsamiq](https://balsamiq.com/)
+
+**Code**
+
+- While writing the project i referred back to pieces of code I had written during the course. 
+
+    **Gallery Page**
+    I liked the layout of the Gallery on the love running project so I referred 
+    back to to to guide my code for the Gallery on this site. I felt however 
+    that 3 collumns was more appropriate for tablet view. 
+
+    **Plan Page**
+    I felt the code from my resume project which showed the timeline of 
+    employment was a nice excecution of a timeline. I referenced back to this 
+    code to write the code for the Plan page. 
+
+- Youtube video
+
+I took the embed code for the youtube video I wanted to use and edited the code for my own needs. I changed the display properties, the accesibillity and the attributes for the code. 
+
+- Google Maps
+
+I took the embed code from Google Maps for the two loctions I needed for the project. I then added a title for accesibility purposes. 
 
 **Images**
 
