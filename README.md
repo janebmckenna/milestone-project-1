@@ -55,8 +55,8 @@ _As a RETURNING user of the site I want to be able to:_
 
 **Navigation Bar**
 
-![Nav Bar](assets/testing/IMG_9702.jpeg)
-![Nav Bar Expanded](assets/testing/IMG_9703.jpeg)
+![Nav Bar](assets/testing/IMG_9702.jpg)
+![Nav Bar Expanded](assets/testing/IMG_9703.jpg)
 
 - Featured on all pages the design and layout of the navigation are consistent on each page. 
 - On Mobile or small/medium screens there is a toggle button for the Navigation options. Users are familiar with this approach and it will be intuitive for them to use. 
@@ -65,29 +65,29 @@ _As a RETURNING user of the site I want to be able to:_
 
 **Home Page - Hero Image and Introductory Text**
 
-![Home Page](assets/testing/IMG_9705.jpeg)
+![Home Page](assets/testing/IMG_9705.jpg)
 
 - Provides a striking image of Ashley and Hannah immediately when the site is opened and sets the tone for the site. 
 - Provides a clear explanation of why the vow renewal is happening and asks the user to join the celebration. 
 
 **Home Page - Wedding Video**
 
-![Wedding Video](assets/testing/IMG_9706.jpeg)
+![Wedding Video](assets/testing/IMG_9706.jpg)
 
 - Builds excitement by showing the highlights of the original Wedding day.
 - Gives a taste of what to expect to those who couldn't be at the original day.
 
 **Footer**
 
-![Footer](assets/testing/IMG_9707.jpeg)
+![Footer](assets/testing/IMG_9707.jpg)
 
 - Provides easy access to links for the two venues for the day, the links will open in new tabs to aid user experience. 
 - On large screens and desktops the date fo the Vow Renewal will also display. 
 
 **The Plan**
 
-![Plan](assets/testing/IMG_9708.jpeg)
-![Plan](assets/testing/IMG_9709.jpeg)
+![Plan](assets/testing/IMG_9708.jpg)
+![Plan](assets/testing/IMG_9709.jpg)
 
 - Provides details of the date, location and timings of the Vow Renewal. 
 - Where and when the various aspects will occur.
@@ -95,19 +95,19 @@ _As a RETURNING user of the site I want to be able to:_
 
 **Accommodation Suggestions**
 
-![Accommodation](assets/testing/IMG_9710.jpeg)
+![Accommodation](assets/testing/IMG_9710.jpg)
 
 - This will provide a list of a few suggestions for local accommodation including contact details and also a link to booking.com where additional options can be found. 
 
 **RSVP Form**
 
-![RSVP](assets/testing/IMG_9711.jpeg)
+![RSVP](assets/testing/IMG_9711.jpg)
 
 - This will allow users to respond to their invite to the wedding, provide suggestions for great dance floor music and inform of any dietary requirements they may have. 
 
 **Photo Gallery**
 
-![Gallery](assets/testing/IMG_9712.jpeg)
+![Gallery](assets/testing/IMG_9712.jpg)
 
 - This section will allow users to get a feel for what the day was like last time and importantly view photos Ashley and Hannahs special day.
 
