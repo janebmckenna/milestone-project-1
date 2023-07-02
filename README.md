@@ -144,6 +144,29 @@ These features are beyond the scope of this project but I would look to include 
 
 ![Table of Manual Testing](assets/testing/m-testing.png)
 
+**User Stories**
+
+_"Website provides them with a means to communicate the details of their vow renewal, capture RSVPs and share content from the first time around."_
+
+The Website delivers all the objectives for the owners of the Site Ashley and Hannah. It contains all pertanient details of thier voew renewal, captures RSVPs and shares photos and video. 
+
+_"interested in their story, viewing their pictures, RSVPing to their invite, the details of the day, what to expect and what accommodation is convenient"_
+
+_"As a FIRST TIME user of the site I want to be able to:_
+
+_Intuitively and easily navigate the site to find content._
+_Respond with my RSVP._
+_Be able to establish the particulars and timings of the vow renewal._
+_Browse the photos of the original Wedding Day._
+
+_As a RETURNING user of the site I want to be able to:_
+
+_Confirm timings and arrangements for the day._
+_Find links to accommodation and venues._
+_Browse the photos of the original Wedding Day."_
+
+As a user of the site all my needs are met both as a first time or returning user. The site is intuative and easy to navigate. I can see all the information I want, the links are helpful, I can RSVP and I can browse the photos.
+
 **Lighthouse Audit**
 
 When I initially ran the lighthouse audit I found issues with my images sizes impacting load time, I rectified this by resizing the images and changing the format from .img to .WebP.
