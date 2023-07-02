@@ -146,7 +146,7 @@ footer {
     left: 2.5em;
     top: 3em;
     display: block;
-    font-family: "Exo" sans-serif;
+    font-family: "Exo", sans-serif;
     font-weight: 500;
     font-size: 0.8em;
     padding: 0;
@@ -272,4 +272,4 @@ a:hover {
   }
   to{
     transform: scale(1.1);
-  }
+}
