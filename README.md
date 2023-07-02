@@ -138,6 +138,13 @@ One error and one warning was returned when tested through direct input on Jigsa
 ![Jigsaw Validator Result](assets/testing/Screenshot%202023-07-02%20at%2011.28.17.png)
 
 ## Deployment
+The Website has been deployed using GitHub Pages [Here](https://janebmckenna.github.io/milestone-project-1/) using the method below. 
+- I logged into my GitHub account.
+- I opened my repository for this site. 
+- Within the respositary I selected 'Settings'
+- I naviagted to 'Pages' within 'Settings'
+- I selected 'Deploy from a branch' from the source menu then the 'Main' branch along with the 'root' folder.
+- I then saved the options to deploy the site. 
 
 ## Credits
 bootstrap?
