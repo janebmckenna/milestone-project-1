@@ -127,12 +127,17 @@ These features are beyond the scope of this project but I would look to include 
 ### Design Choices
 
 - I envisaged that this site would predominantly be used on Mobile. I made the choice to use bootstrap to facilitate my design and I scaled from Mobile first.
-- 
+- On desktop view I made the decission to allow the hero image to push the content below the fold. I felt the users of this site are a captive audience whom have a vested interest in seeing such a striking image of Ashley and Hannah. Where users had gone to the trouble of using a desktop to view the site I wanted this striking image to be their first and full view. 
   
 **Wireframes**
+
 [View Wireframes](wireframes.md)
 
 ## Technologies Used
+
+- **Languages:** HTML, CSS
+- **Code Anywhere:** used as a cloud code editor.
+- **GitHub:** used as a cloud based code repository.
 
 ## Testing
 
@@ -170,13 +175,13 @@ When I initially ran the lighthouse audit I found issues with my images sizes im
 - HTML
 
 No errors were returned when passing through the W3C validator 
-![W3C Validator result](assets/testing/Screenshot%202023-07-02%20at%2011.23.04.png)
+![W3C Validator result](assets/testing/validator-html.png)
 
 - CSS
 
 When I initially passed the site through the Jigsaw Validator it returned a lot of errors originating from bootstrap/java script. I made the decision to test my CSS directly through direct input on the validator. 
 No errors were returned when passing through the validator by direct input.  
-![Jigsaw Validator Result](assets/testing/Screenshot%202023-07-04%20at%2020.39.48.png)
+![Jigsaw Validator Result](assets/testing/validator-css.png)
 
 ## Deployment
 The Website has been deployed using GitHub Pages [Here](https://janebmckenna.github.io/milestone-project-1/) using the method below: 
@@ -199,7 +204,7 @@ The Website has been deployed using GitHub Pages [Here](https://janebmckenna.git
 
 **Code**
 
-- While writing the project i referred back to pieces of code I had written during the course. 
+- While writing the project I referred back to pieces of code I had written during the course. 
 
     **Gallery Page**
     I liked the layout of the Gallery on the love running project so I referred 
