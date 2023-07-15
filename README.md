@@ -192,6 +192,13 @@ The Website has been deployed using GitHub Pages [Here](https://janebmckenna.git
 - I selected 'Deploy from a branch' from the source menu then the 'Main' branch along with the 'root' folder.
 - I then saved the options to deploy the site. 
 
+To deploy this website using source files:
+- Go to the repository [Here](https://github.com/janebmckenna/milestone-project-1/tree/main)
+- Clone the repositiory onto your local device by
+  - Click 'Code'
+  - Chose 'Download Zip'
+- Open the Zip file on your device
+- Right click on the 'index.html' file and open with any browser. 
 ## Credits
 
 **Content**
