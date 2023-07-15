@@ -29,6 +29,9 @@ a {
 #intro-text p{
     font-size: large;
 }
+form{
+    margin-left: 10px;
+}
 
 form label {
     color: white;
@@ -196,7 +199,7 @@ nav li {
 .plan {
     padding-left: 10px;
     padding-right: 10px;
-    margin: 10px;
+    margin: 20px;
 }
 
 .intro-header {
@@ -204,8 +207,8 @@ nav li {
 }
 
 .accom-photo {
-    width: 150px;
-    height: 100px;
+    width: 220px;
+    height: 146px;
     overflow: hidden;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -229,7 +232,7 @@ h5{
     background-color: rgba(0, 0, 0, 0.1);
 }
 .map{
-    padding: 10px;
+    padding: 20px;
     position: relative;
     min-height: 120px;
 }
@@ -240,6 +243,7 @@ h5{
     min-height: 100px;
     position: absolute;
     padding: 2px;
+    margin: auto;
 }
 
 .rsvp{
@@ -272,4 +276,36 @@ a:hover {
   }
   to{
     transform: scale(1.1);
+}}
+
+@media screen and (max-width: 943px) {
+    .accom-photo {
+        width: 200px;
+        height: 133px;
+        overflow: hidden;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding: 1px;
+    }
+    .tablet-view {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 499px) {
+    .accom-photo {
+        width: 80vw;
+        height: auto;
+        overflow: hidden;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .map {
+        padding: 10px 0px 20px 40px;
+        position: relative;
+        min-height: 120px;
+    }
+    .tablet-view{
+        display: inline;
+    }
 }

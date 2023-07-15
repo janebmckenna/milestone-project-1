@@ -29,9 +29,9 @@ Ashley & Hannahs Vow Renewal is a site that provides Wedding Day information for
 
 The goal is to  to provide a simple, intuitive and informative website for the vow renewal of Hannah and Ashley. Which guests will navigate easily to respond to their invitation, find useful information and browse images of the original wedding day during the covid 19 pandemic.
 
-**Customers: Hannah and Ashley**
+**Site Owners: Hannah and Ashley**
 
-Website provides them with a means to communicate the details of their vow renewal, capture RSVPs and share content from the first time around.
+Website provides them with a means to communicate the details of their vow renewal, relive the moments from their wedding day, capture RSVPs and share content from the first time around.
 
 **Users:**
 
@@ -129,14 +129,8 @@ These features are beyond the scope of this project but I would look to include 
 - I envisaged that this site would predominantly be used on Mobile. I made the choice to use bootstrap to facilitate my design and I scaled from Mobile first.
 - 
   
-**Mobile view 579px**
-![Page images of mobile view](assets/wireframes/Mobile%20view%20579px.png)
-
-**Tablet view 768px**
-![Page images of tablet view 768px](assets/wireframes/Tablet%20view%20678px.png)
-
-**Desktop view 1200px**
-![Page images in Desktop view 1200px](assets/wireframes/Desktop%20view%201200px.png)
+**Wireframes**
+[View Wireframes](wireframes.md)
 
 ## Technologies Used
 
@@ -148,7 +142,7 @@ These features are beyond the scope of this project but I would look to include 
 
 _"Website provides them with a means to communicate the details of their vow renewal, capture RSVPs and share content from the first time around."_
 
-The Website delivers all the objectives for the owners of the Site Ashley and Hannah. It contains all pertanient details of thier voew renewal, captures RSVPs and shares photos and video. 
+**The Website delivers all the objectives for the owners of the Site Ashley and Hannah. It contains all pertanient details of thier voew renewal, captures RSVPs and shares photos and video.**
 
 _"interested in their story, viewing their pictures, RSVPing to their invite, the details of the day, what to expect and what accommodation is convenient"_
 
@@ -165,7 +159,7 @@ _Confirm timings and arrangements for the day._
 _Find links to accommodation and venues._
 _Browse the photos of the original Wedding Day."_
 
-As a user of the site all my needs are met both as a first time or returning user. The site is intuative and easy to navigate. I can see all the information I want, the links are helpful, I can RSVP and I can browse the photos.
+**As a user of the site all my needs are met both as a first time or returning user. The site is intuative and easy to navigate. I can see all the information I want, the links are helpful, I can RSVP and I can browse the photos.**
 
 **Lighthouse Audit**
 
@@ -180,9 +174,9 @@ No errors were returned when passing through the W3C validator
 
 - CSS
 
-When I initially passed the site through the Jigsaw Validator it returned a lot of errors originating from bootstrap/java script. I made the decision to test me CSS directly through direct input on the validator. 
-One error and one warning was returned when tested through direct input on Jigsaw. 
-![Jigsaw Validator Result](assets/testing/Screenshot%202023-07-02%20at%2011.28.17.png)
+When I initially passed the site through the Jigsaw Validator it returned a lot of errors originating from bootstrap/java script. I made the decision to test my CSS directly through direct input on the validator. 
+No errors were returned when passing through the validator by direct input.  
+![Jigsaw Validator Result](assets/testing/Screenshot%202023-07-04%20at%2020.39.48.png)
 
 ## Deployment
 The Website has been deployed using GitHub Pages [Here](https://janebmckenna.github.io/milestone-project-1/) using the method below: 
