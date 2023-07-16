@@ -4,7 +4,7 @@
 
 Ashley & Hannahs Vow Renewal is a site that provides Wedding Day information for the friends and family of the couple. The website displays photos of the celebration which happened during COVID, information for guests coming to their renewal and collects RSVPs. 
 
-![Mock Up](assets/images/Ashley%20%26%20Hannah%20diff%20viewports.png)
+![Mock Up](assets/testing/screengrab.png)
 
 ## Index – Table of Contents
 ***
@@ -143,6 +143,46 @@ These features are beyond the scope of this project but I would look to include 
 
 ![Table of Manual Testing](assets/testing/m-testing.png)
 
+**Manual Testing of User Actions**
+
+|**Feature**     |**Action**     |**Expected Bahaviour**     |**Result**     |
+|----------------|---------------|---------------------------|---------------|
+|NavBar          |Click Logo     |Navigates to homepage      |Pass           |
+|NavBar          |Click The Plan |Navigates to The Plan page |Pass           |
+|NavBar          |Click Accomodation |Navigates to The Accomodation page      |Pass           |
+|NavBar          |Click RSVP     |Navigates to The RSVP page      |Pass           |
+|NavBar          |Click Gallery     |Navigates to The Gallery page      |Pass           |
+|NavBar          |Hover over The Plan |Text becomes bold |Pass           |
+|NavBar          |Hover over Accomodation |Text becomes bold |Pass           |
+|NavBar          |Hover over RSVP |Text becomes bold |Pass           |
+|NavBar          |Hover over Gallery |Text becomes bold |Pass           |
+|Mobile Menu     |Click The Hamburger Icon |Displays Menu items |Pass           |
+|Mobile Menu     |Click The Hamburger Icon a 2nd time     |Collapses Menu items      |Pass           |
+|Mobile Menu     |Click Home |Navigates to The Home page |Pass           |
+|Home Page - Video |Click Play Icon |Video plays on mute  |Pass           |
+|Footer          |Click St Macarthans Cathedral |Homepage for St Macarthans Cathedral opens in a new tab |Pass    |
+|Footer          |Click Lough Rynn |Homepage for Lough Rynn opens in a new tab |Pass    |
+|Footer          |Hover over St Macarthans Cathedral |Text Underlines |Pass    |
+|Footer          |Hover over Lough Rynn |Text Underlines |Pass    |
+|Plan - Location information |Click St Macarthans Cathedral |Homepage for St Macarthans Cathedral opens in a new tab |Pass    |
+|Plan - Location information |Click Lough Rynn |Homepage for Lough Rynn opens in a new tab |Pass    |
+|Plan - Location information |Hover over St Macarthans Cathedral |Text Underlines |Pass    |
+|Plan - Location information |Hover over Lough Rynn |Text Underlines |Pass    |
+|Plan - Location information |Click St Macarthans Cathedral Map|Google Maps location for St Macarthans Cathedral opens in a new tab |Pass    |
+|Plan - Location information |Click Lough Rynn Map |Google Maps location for Lough Rynn opens in a new tab |Pass    |
+|Accomodation Information   |Click Castle |Homepage for Lough Rynn opens in a new tab |Pass    |
+|Accomodation Information   |Click Booking.com |Homepage for booking.com opens in a new tab |Pass    |
+|Accomodation Information   |Hover over Castle |Text Underlines |Pass    |
+|Accomodation Information   |Hover over Booking.com |Text Underlines |Pass    |
+|Accomodation Information   |Click accomodation photo |Booking.com opens in a new tab|Pass    |
+|RSVP Form     |Click Send! without providing Name details |Pop up: Please Fill in this Field |Pass    |
+|RSVP Form     |Click Send! without providing Email details |Pop up: Please Fill in this Field |Pass    |
+|RSVP Form     |Click Send! with non email text in email field|Pop up: Please include an '@' in the email address |Pass    |
+|RSVP Form     |Click Send! without toggling a radio button |Pop up: Please select one of these options |Pass    |
+|RSVP Form     |Click Send! with Name, Email and RSVP response provided |Thank you page appears |Pass    |
+|
+
+
 **User Stories**
 
 _"Website provides them with a means to communicate the details of their vow renewal, capture RSVPs and share content from the first time around."_
@@ -199,6 +239,7 @@ To deploy this website using source files:
   - Chose 'Download Zip'
 - Open the Zip file on your device
 - Right click on the 'index.html' file and open with any browser. 
+  
 ## Credits
 
 **Content**
