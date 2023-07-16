@@ -6,18 +6,17 @@ Ashley & Hannahs Vow Renewal is a site that provides Wedding Day information for
 
 ![Mock Up](assets/testing/screengrab.png)
 
-## Index - Table of Contents
+## Index – Table of Contents
 ***
 - [Ashley \& Hannahs Vow Renewal](#ashley--hannahs-vow-renewal)
-  - [Index - Table of Contents](#index--table-of-contents)
+  - [Index – Table of Contents](#index--table-of-contents)
   - [User Experience UX](#user-experience-ux)
   - [UX Scope](#ux-scope)
     - [Existing Features](#existing-features)
     - [Future Improvements](#future-improvements)
   - [UX Structure](#ux-structure)
-    - [Navigation and Header](#navigation-and-header)
   - [UX Skeleton](#ux-skeleton)
-    - [Design Choices](#design-choices)
+  - [UX Surface](#ux-surface)
   - [Technologies Used](#technologies-used)
   - [Testing](#testing)
   - [Deployment](#deployment)
