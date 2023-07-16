@@ -127,7 +127,7 @@ These features are beyond the scope of this project but I would look to include 
 ### Design Choices
 
 - I envisaged that this site would predominantly be used on Mobile. I made the choice to use bootstrap to facilitate my design and I scaled from Mobile first.
-- On desktop view I made the decission to allow the hero image to push the content below the fold. I felt the users of this site are a captive audience whom have a vested interest in seeing such a striking image of Ashley and Hannah. Where users had gone to the trouble of using a desktop to view the site I wanted this striking image to be their first and full view. 
+- On desktop view I made the decision to allow the hero image to push the content below the fold. I felt the users of this site are a captive audience whom have a vested interest in seeing such a striking image of Ashley and Hannah. Where users had gone to the trouble of using a desktop to view the site I wanted this striking image to be their first and full view. 
   
 **Wireframes**
 
@@ -154,7 +154,7 @@ The Website has been deployed using GitHub Pages [Here](https://janebmckenna.git
 
 To deploy this website using source files:
 - Go to the repository [Here](https://github.com/janebmckenna/milestone-project-1/tree/main)
-- Clone the repositiory onto your local device by
+- Clone the repository onto your local device by
   - Click 'Code'
   - Chose 'Download Zip'
 - Open the Zip file on your device
@@ -179,26 +179,27 @@ If you wish to create a fork of this repository advice can be found [here](https
     **Gallery Page**
     I liked the layout of the Gallery on the love running project so I referred 
     back to to to guide my code for the Gallery on this site. I felt however 
-    that 3 collumns was more appropriate for tablet view. 
+    that 3 columns was more appropriate for tablet view. 
 
     **Plan Page**
     I felt the code from my resume project which showed the timeline of 
-    employment was a nice excecution of a timeline. I referenced back to this 
+    employment was a nice execution of a timeline. I referenced back to this 
     code to write the code for the Plan page. 
 
 - Youtube video
 
-I took the embed code for the youtube video I wanted to use and edited the code for my own needs. I changed the display properties, the accesibillity and the attributes for the code. 
+I took the embed code for the youtube video I wanted to use and edited the code for my own needs. I changed the display properties, the accessibility and the attributes for the code. 
 
 - Google Maps
 
-I took the embed code from Google Maps for the two loctions I needed for the project. I then added a title for accesibility purposes. 
+I took the embed code from Google Maps for the two locations I needed for the project. I then added a title for accessibility purposes. 
 
 - Meta Description
 
-I used [this](https://developer.chrome.com/en/docs/lighthouse/seo/meta-description/) lighthouse help document to understand how add a meta desciption to the head.
+I used [this](https://developer.chrome.com/en/docs/lighthouse/seo/meta-description/) lighthouse help document to understand how add a meta description to the head.
 
 - Markdown Language
+
 I used [this cheat sheet](https://www.markdownguide.org/cheat-sheet/) to help me write my README file. 
 
 **Images**
@@ -210,5 +211,5 @@ I thank my sister Hannah, brother in law Ashley and Marketing Manager Ross for t
 
 Thank you to my mentor for all the help and advice he has offered including:
 - An elegant solution for form submission on a static site. 
-- Advising on the correct testing format
-- Adivising on the layout, look and feel.
+- Advising on the correct testing format.
+- Advising on the layout, look and feel.
