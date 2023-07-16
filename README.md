@@ -11,9 +11,8 @@ Ashley & Hannahs Vow Renewal is a site that provides Wedding Day information for
 - [Ashley \& Hannahs Vow Renewal](#ashley--hannahs-vow-renewal)
   - [Index – Table of Contents](#index--table-of-contents)
   - [User Experience UX](#user-experience-ux)
+  - [UX Strategy](#ux-strategy)
   - [UX Scope](#ux-scope)
-    - [Existing Features](#existing-features)
-    - [Future Improvements](#future-improvements)
   - [UX Structure](#ux-structure)
   - [UX Skeleton](#ux-skeleton)
   - [UX Surface](#ux-surface)
@@ -24,7 +23,7 @@ Ashley & Hannahs Vow Renewal is a site that provides Wedding Day information for
 
 ## User Experience UX
 ***
-**Strategy**
+## UX Strategy
 
 The **goal** is to  to provide a simple, intuitive and informative website for the vow renewal of Hannah and Ashley. Which guests will navigate easily to respond to their invitation, find useful information and browse images of the original wedding day during the covid 19 pandemic.
 
@@ -50,7 +49,7 @@ _As a RETURNING user of the site I want to be able to:_
 * Browse the photos of the original Wedding Day.
 
 ## UX Scope 
-### Existing Features
+**Existing Features**
 
 **Navigation Bar**
 
@@ -110,7 +109,7 @@ _As a RETURNING user of the site I want to be able to:_
 
 - This section will allow users to get a feel for what the day was like last time and importantly view photos Ashley and Hannahs special day.
 
-### Future Improvements
+**Future Improvements**
 
 These features are beyond the scope of this project but I would look to include for the final live version of the site
 
