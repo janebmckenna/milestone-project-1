@@ -311,3 +311,15 @@ a:hover {
         display: inline;
     }
 }
+.row{
+    max-width: 100vw;
+}
+
+@media screen and (max-width: 349px) {
+    nav .logo {
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    color: #B4ABA8;
+    padding-left: 10px;
+}
+}

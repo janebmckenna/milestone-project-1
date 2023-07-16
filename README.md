@@ -141,87 +141,7 @@ These features are beyond the scope of this project but I would look to include 
 
 ## Testing
 
-![Table of Manual Testing](assets/testing/m-testing.png)
-
-**Manual Testing of User Actions**
-
-|**Feature**     |**Action**     |**Expected Bahaviour**     |**Result**     |
-|----------------|---------------|---------------------------|---------------|
-|NavBar          |Click Logo     |Navigates to homepage      |Pass           |
-|NavBar          |Click The Plan |Navigates to The Plan page |Pass           |
-|NavBar          |Click Accomodation |Navigates to The Accomodation page      |Pass           |
-|NavBar          |Click RSVP     |Navigates to The RSVP page      |Pass           |
-|NavBar          |Click Gallery     |Navigates to The Gallery page      |Pass           |
-|NavBar          |Hover over The Plan |Text becomes bold |Pass           |
-|NavBar          |Hover over Accomodation |Text becomes bold |Pass           |
-|NavBar          |Hover over RSVP |Text becomes bold |Pass           |
-|NavBar          |Hover over Gallery |Text becomes bold |Pass           |
-|Mobile Menu     |Click The Hamburger Icon |Displays Menu items |Pass           |
-|Mobile Menu     |Click The Hamburger Icon a 2nd time     |Collapses Menu items      |Pass           |
-|Mobile Menu     |Click Home |Navigates to The Home page |Pass           |
-|Home Page - Video |Click Play Icon |Video plays on mute  |Pass           |
-|Footer          |Click St Macarthans Cathedral |Homepage for St Macarthans Cathedral opens in a new tab |Pass    |
-|Footer          |Click Lough Rynn |Homepage for Lough Rynn opens in a new tab |Pass    |
-|Footer          |Hover over St Macarthans Cathedral |Text Underlines |Pass    |
-|Footer          |Hover over Lough Rynn |Text Underlines |Pass    |
-|Plan - Location information |Click St Macarthans Cathedral |Homepage for St Macarthans Cathedral opens in a new tab |Pass    |
-|Plan - Location information |Click Lough Rynn |Homepage for Lough Rynn opens in a new tab |Pass    |
-|Plan - Location information |Hover over St Macarthans Cathedral |Text Underlines |Pass    |
-|Plan - Location information |Hover over Lough Rynn |Text Underlines |Pass    |
-|Plan - Location information |Click St Macarthans Cathedral Map|Google Maps location for St Macarthans Cathedral opens in a new tab |Pass    |
-|Plan - Location information |Click Lough Rynn Map |Google Maps location for Lough Rynn opens in a new tab |Pass    |
-|Accomodation Information   |Click Castle |Homepage for Lough Rynn opens in a new tab |Pass    |
-|Accomodation Information   |Click Booking.com |Homepage for booking.com opens in a new tab |Pass    |
-|Accomodation Information   |Hover over Castle |Text Underlines |Pass    |
-|Accomodation Information   |Hover over Booking.com |Text Underlines |Pass    |
-|Accomodation Information   |Click accomodation photo |Booking.com opens in a new tab|Pass    |
-|RSVP Form     |Click Send! without providing Name details |Pop up: Please Fill in this Field |Pass    |
-|RSVP Form     |Click Send! without providing Email details |Pop up: Please Fill in this Field |Pass    |
-|RSVP Form     |Click Send! with non email text in email field|Pop up: Please include an '@' in the email address |Pass    |
-|RSVP Form     |Click Send! without toggling a radio button |Pop up: Please select one of these options |Pass    |
-|RSVP Form     |Click Send! with Name, Email and RSVP response provided |Thank you page appears |Pass    |
-|
-
-
-**User Stories**
-
-_"Website provides them with a means to communicate the details of their vow renewal, capture RSVPs and share content from the first time around."_
-
-**The Website delivers all the objectives for the owners of the Site Ashley and Hannah. It contains all pertanient details of thier voew renewal, captures RSVPs and shares photos and video.**
-
-_"interested in their story, viewing their pictures, RSVPing to their invite, the details of the day, what to expect and what accommodation is convenient"_
-
-_"As a FIRST TIME user of the site I want to be able to:_
-
-_Intuitively and easily navigate the site to find content._
-_Respond with my RSVP._
-_Be able to establish the particulars and timings of the vow renewal._
-_Browse the photos of the original Wedding Day._
-
-_As a RETURNING user of the site I want to be able to:_
-
-_Confirm timings and arrangements for the day._
-_Find links to accommodation and venues._
-_Browse the photos of the original Wedding Day."_
-
-**As a user of the site all my needs are met both as a first time or returning user. The site is intuative and easy to navigate. I can see all the information I want, the links are helpful, I can RSVP and I can browse the photos.**
-
-**Lighthouse Audit**
-
-When I initially ran the lighthouse audit I found issues with my images sizes impacting load time, I rectified this by resizing the images and changing the format from .img to .WebP.
-
-**Validator Testing**
-
-- HTML
-
-No errors were returned when passing through the W3C validator 
-![W3C Validator result](assets/testing/validator-html.png)
-
-- CSS
-
-When I initially passed the site through the Jigsaw Validator it returned a lot of errors originating from bootstrap/java script. I made the decision to test my CSS directly through direct input on the validator. 
-No errors were returned when passing through the validator by direct input.  
-![Jigsaw Validator Result](assets/testing/validator-css.png)
+[View Testing Documentation](testing.md)
 
 ## Deployment
 The Website has been deployed using GitHub Pages [Here](https://janebmckenna.github.io/milestone-project-1/) using the method below: 
@@ -239,6 +159,8 @@ To deploy this website using source files:
   - Chose 'Download Zip'
 - Open the Zip file on your device
 - Right click on the 'index.html' file and open with any browser. 
+
+If you wish to create a fork of this repository advice can be found [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
   
 ## Credits
 
@@ -272,6 +194,13 @@ I took the embed code for the youtube video I wanted to use and edited the code 
 
 I took the embed code from Google Maps for the two loctions I needed for the project. I then added a title for accesibility purposes. 
 
+- Meta Description
+
+I used [this](https://developer.chrome.com/en/docs/lighthouse/seo/meta-description/) lighthouse help document to understand how add a meta desciption to the head.
+
+- Markdown Language
+I used [this cheat sheet](https://www.markdownguide.org/cheat-sheet/) to help me write my README file. 
+
 **Images**
 
 All images used within the project came from personal sources. The wedding imagery is from Ashley and Hannahs Wedding and was used with their permission. The three accommodation images were sourced from the marketing department at work and used with their blessing to create fictitious accommodation in Mohill. 
@@ -281,3 +210,5 @@ I thank my sister Hannah, brother in law Ashley and Marketing Manager Ross for t
 
 Thank you to my mentor for all the help and advice he has offered including:
 - An elegant solution for form submission on a static site. 
+- Advising on the correct testing format
+- Adivising on the layout, look and feel.
