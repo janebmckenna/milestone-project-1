@@ -6,10 +6,10 @@ Ashley & Hannahs Vow Renewal is a site that provides Wedding Day information for
 
 ![Mock Up](assets/testing/screengrab.png)
 
-## Index – Table of Contents
+## Index - Table of Contents
 ***
 - [Ashley \& Hannahs Vow Renewal](#ashley--hannahs-vow-renewal)
-  - [Index – Table of Contents](#index--table-of-contents)
+  - [Index - Table of Contents](#index--table-of-contents)
   - [User Experience UX](#user-experience-ux)
   - [UX Scope](#ux-scope)
     - [Existing Features](#existing-features)
@@ -27,7 +27,7 @@ Ashley & Hannahs Vow Renewal is a site that provides Wedding Day information for
 ***
 **Strategy**
 
-The goal is to  to provide a simple, intuitive and informative website for the vow renewal of Hannah and Ashley. Which guests will navigate easily to respond to their invitation, find useful information and browse images of the original wedding day during the covid 19 pandemic.
+The **goal** is to  to provide a simple, intuitive and informative website for the vow renewal of Hannah and Ashley. Which guests will navigate easily to respond to their invitation, find useful information and browse images of the original wedding day during the covid 19 pandemic.
 
 **Site Owners: Hannah and Ashley**
 
@@ -35,7 +35,7 @@ Website provides them with a means to communicate the details of their vow renew
 
 **Users:**
 
-Users are close friends and family of Hannah and Ashley they are interested in their story, viewing their pictures, RSVPing to their invite, the details of the day, what to expect and what accommodation is convenient 
+Users are close friends and family of Hannah and Ashley they are interested in their story, viewing their pictures, RSVPing to their invite, the details of the day, what to expect and what accommodation is convenient.
 
 **User Stories:**
 
@@ -120,18 +120,44 @@ These features are beyond the scope of this project but I would look to include 
 
 ## UX Structure
 
-### Navigation and Header
+**Navigation and Header**
+Given how important Mobile view and responsive design is the Navigation will be housed within a collapsable icon with every page available with a single click from this menu. On all screen sizes the 'logo' will link to the home page but in addition on small mobile screens a 'Home' option will appear within the collapsable icon. 
+The menu icons will highlight with active and hover. On larger screens the menu options are housed within a header in an extended format and available by a single click. 
+
+**Links to external content**
+All links to external content will open in a new tab to ensure there is a good user experience in naviagting the site. 
+
+**RSVP Form**
+When the RSVP form is submitted a thank you page which has a consistent layout with the remainder of the site will appear. This page will have the same navigation options as the core site. 
 
 ## UX Skeleton
 
-### Design Choices
-
+**Design Choices**
 - I envisaged that this site would predominantly be used on Mobile. I made the choice to use bootstrap to facilitate my design and I scaled from Mobile first.
 - On desktop view I made the decision to allow the hero image to push the content below the fold. I felt the users of this site are a captive audience whom have a vested interest in seeing such a striking image of Ashley and Hannah. Where users had gone to the trouble of using a desktop to view the site I wanted this striking image to be their first and full view. 
+- I tried to keep the layout as consitent as possible across screen sizes whilst also ensuring the content was well presented and visually pleasing across devices. 
+- In order to make it easy for users to remind themselves of the locations for the vow renewal, I kept the names (and links) in the footer across all pages. I felt that if someone was naviagting to the Castle for example on the day and forgot the name this would allow them to quickly remind themselves. 
+
   
 **Wireframes**
 
 [View Wireframes](wireframes.md)
+
+## UX Surface
+
+**Colour Pallette**
+As I have fixed imagery that I wanted to use on the site I want the colour pallette on the site to compliment the imagery. I have chosen my primary colour for the site rgba(0, 102, 111, 0.99) I will use contrasting and complimentry colors. I also want to use some different transparency to break up the colour. 
+
+**Fonts**
+To fit with the grandure of the occassion I have chosen Dancing Script to be used at key points in the project. For accessibility reasons and too ensure that the script is not overly cursive I have chosen Roboto to compliment this and to be used through that majority of the site. 
+
+**Effects**
+- To enhance the hero image on the home page I have decided to impliment a zoom effect when the page is navigated to.
+- To ensure users recieve a que that links are clickable I have decided to underline the text when the user hovers. 
+- To make naviagtion easy the active page with subltely embolden when active. 
+
+**Responsiveness**
+I replied heavily on a combination bootstrap and media queries to ensure the site was visually appealing and well laid out on all screens. 
 
 ## Technologies Used
 
