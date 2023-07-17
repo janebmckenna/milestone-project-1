@@ -109,9 +109,11 @@ I reached out to both my cohort and the peer code review channel on slack to gat
 |Footer breaks on screens below 400px|Introduced a line break between the two location links|
 |Below 350px the Hamburger icon moves below the Ashley and Hannah Logo.| I used a media query to revise the logo and padding for the logo below 350px|
 |Untidy photo layout in Gallery on tablet devices (3 columns)|I used a media query to hide two images which tidied up the page|
+|On iphone the links within the footer sit below the clickable space due to the bottom bar on the screen |I added a 20px padding to the bottom of the footer to push the links up|
 
 **Unresolved Bugs**
 
-The plan page overflows the viewport width between 575px and 767px, pushing the menu icon off the side of the page. 
+The plan page overflows the viewport width between 575px and 767px, pushing the menu icon off the side of the page additionally there is some side scroll on the page on mobile devices.  
+
 
 [Return to README](README.md)
