@@ -54,18 +54,18 @@
 
 ## User Story Validation
 
-|**User Story** |**Outcome** |
-|-----|-----|
-|_Website provides them with a means to communicate the details of their vow renewal, capture RSVPs and share content from the first time around._|The Website delivers all the objectives for the owners of the Site Ashley and Hannah. It contains all pertinent details of their vow renewal, captures RSVPs and shares photos and video.|
-|**First Time User**||
-|_Intuitively and easily navigate the site to find content._|The site is laid out in a familiar and intuitive format, feedback from testers is that the site was easy to navigate.|
-|_Respond with my RSVP._|Form provided to allow users to RSVP, this is currently set up mimic gathering RSVPs but appears to work to users of the site. The backend development to gather and store this information is beyond the scope of this project.|
-|_Be able to establish the particulars and timings of the vow renewal._|The date and location of the vow renewal is provided at several points during the navigation journey through the site. The full details are provided on an easy to navigate to and through plan page.|
-|_Browse the photos of the original Wedding Day._|A full gallery of photos is included within the site, this page is responsive and displays well on all screen sizes.|
-|**Returning User**||
-|_Confirm timings and arrangements for the day._|Timings and details are provided on an easy to navigate to and through plan page|
-|_Find links to accommodation and venues._|Accommodation suggestions are provided on an easy to navigate to and through accommodation page|
-|_Browse the photos of the original Wedding Day._|A full gallery of photos is included within the site, this page is responsive and displays well on all screen sizes.|
+|**User Story** |**Outcome** |**Screengrabs**
+|-----|-----|-----|
+|_Website provides them with a means to communicate the details of their vow renewal, capture RSVPs and share content from the first time around._|The Website delivers all the objectives for the owners of the Site Ashley and Hannah. It contains all pertinent details of their vow renewal, captures RSVPs and shares photos and video.|[Homepage](assets/testing/user-stories1.png)  [Navigation](assets/testing/user-stories6.png)|
+|**First Time User**|||
+|_Intuitively and easily navigate the site to find content._|The site is laid out in a familiar and intuitive format, feedback from testers is that the site was easy to navigate.|[Navigation](assets/testing/user-stories6.png)|
+|_Respond with my RSVP._|Form provided to allow users to RSVP, this is currently set up mimic gathering RSVPs but appears to work to users of the site. The backend development to gather and store this information is beyond the scope of this project.|[RSVP collation](assets/testing/user-stories2.png)|
+|_Be able to establish the particulars and timings of the vow renewal._|The date and location of the vow renewal is provided at several points during the navigation journey through the site. The full details are provided on an easy to navigate to and through plan page.|[Details of the day](assets/testing/user-stories5.png)|
+|_Browse the photos of the original Wedding Day._|A full gallery of photos is included within the site, this page is responsive and displays well on all screen sizes.|[Display of photos](assets/testing/user-stories3.png)|
+|**Returning User**|||
+|_Confirm timings and arrangements for the day._|Timings and details are provided on an easy to navigate to and through plan page|[Details of the day](assets/testing/user-stories5.png)|
+|_Find links to accommodation and venues._|Accommodation suggestions are provided on an easy to navigate to and through accommodation page|[Accomodation Suggestions](assets/testing/user-stories4.png)|
+|_Browse the photos of the original Wedding Day._|A full gallery of photos is included within the site, this page is responsive and displays well on all screen sizes.|[Display of photos](assets/testing/user-stories3.png)|
 
 ## Lighthouse Audit
 
