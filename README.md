@@ -162,6 +162,7 @@ I replied heavily on a combination bootstrap and media queries to ensure the sit
 - **Languages:** HTML, CSS
 - **Code Anywhere:** used as a cloud code editor.
 - **GitHub:** used as a cloud based code repository.
+- **GitHub Pages** was used to deploy the site.
 
 ## Testing
 
