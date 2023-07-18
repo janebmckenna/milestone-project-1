@@ -81,7 +81,7 @@ Following my work to rectify my final lighthouse audit results are below
 
 - HTML
 
-No errors were returned when passing through the W3C validator 
+No errors were returned when passing through the W3C validator, all pages were checked.
 ![W3C Validator result](assets/testing/validator-html.png)
 
 - CSS

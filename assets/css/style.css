@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Roboto+Mono:wght@200;400&display=swap');
-
-/* ----- Colors -----  */
+/* ------------ General Settings -------------- */
 body {
     background-color: rgba(0, 102, 111, 0.99);
     min-height: 100vh;
@@ -10,11 +9,10 @@ body {
     color: white;
     font-family: 'Roboto', sans-serif;
 }
-
 a {
     color: white;
 }
-
+/* ------------ Text sections Home/RSVP/Accom -------------- */
 #intro-text {
     padding: 20px;
     color: white;
@@ -29,10 +27,6 @@ a {
 #intro-text p{
     font-size: large;
 }
-form{
-    margin-left: 10px;
-}
-
 form label {
     color: white;
     margin-bottom: 1px;
@@ -183,7 +177,9 @@ footer {
 .navbar-toggler-icon {
     z-index: 110;
 }
-
+form {
+    margin-left: 10px;
+}
 nav li {
     text-align: right;
     float: right;
@@ -280,6 +276,7 @@ a:hover {
     transform: scale(1.1);
 }}
 
+/* ----- Media Queries for layout -----  */
 @media screen and (max-width: 943px) {
     .accom-photo {
         width: 200px;
@@ -310,9 +307,6 @@ a:hover {
     .tablet-view{
         display: inline;
     }
-}
-.row{
-    max-width: 100vw;
 }
 
 @media screen and (max-width: 349px) {
