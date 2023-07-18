@@ -1,8 +1,9 @@
-# Testing 
+# Testing
 
 [Return to README](README.md)
 
 ## Contents
+
 [Manual Testing](#manual-testing) \
 [User Story Validation](#user-story-validation) \
 [Lighthouse Audit](#lighthouse-audit) \
@@ -10,13 +11,14 @@
 [Bugs](#bugs)
 
 ## Manual Testing
+
 **Device and Browser Testing**
 
 ![Table of Manual Testing](assets/testing/m-testing.png)
 
 **Manual Testing of User Actions**
 
-|**Feature**     |**Action**     |**Expected Bahaviour**     |**Result**     |
+|**Feature**     |**Action**     |**Expected Behaviour**     |**Result**     |
 |----------------|---------------|---------------------------|---------------|
 |NavBar          |Click Logo     |Navigates to homepage      |Pass           |
 |NavBar          |Click The Plan |Navigates to The Plan page |Pass           |
@@ -64,15 +66,16 @@
 |_Browse the photos of the original Wedding Day._|A full gallery of photos is included within the site, this page is responsive and displays well on all screen sizes.|[Display of photos](assets/testing/user-stories3.png)|
 |**Returning User**|||
 |_Confirm timings and arrangements for the day._|Timings and details are provided on an easy to navigate to and through plan page|[Details of the day](assets/testing/user-stories5.png)|
-|_Find links to accommodation and venues._|Accommodation suggestions are provided on an easy to navigate to and through accommodation page|[Accomodation Suggestions](assets/testing/user-stories4.png)|
+|_Find links to accommodation and venues._|Accommodation suggestions are provided on an easy to navigate to and through accommodation page|[Accommodation Suggestions](assets/testing/user-stories4.png)|
 |_Browse the photos of the original Wedding Day._|A full gallery of photos is included within the site, this page is responsive and displays well on all screen sizes.|[Display of photos](assets/testing/user-stories3.png)|
 
 ## Lighthouse Audit
 
 When I initially ran the lighthouse audit I found issues with:
+
 - My images sizes impacting load time, I rectified this by resizing the images and changing the format from .img to .WebP.
 - Meta Description in the head for SEO, which I rectified.
-- Lack of Title on my iframes, which I rectified. 
+- Lack of Title on my iframes, which I rectified.
 
 Following my work to rectify my final lighthouse audit results are below
 ![Lighthouse result](assets/testing/lighthouse.png)
@@ -86,9 +89,9 @@ No errors were returned when passing through the W3C validator, all pages were c
 
 - CSS
 
-When I initially passed the site through the Jigsaw Validator it returned a lot of errors originating from bootstrap/java script. I made the decision to test my CSS directly through direct input on the validator. 
+When I initially passed the site through the Jigsaw Validator it returned a lot of errors originating from bootstrap/java script. I made the decision to test my CSS directly through direct input on the validator.
 
-Initially one error was found, there was a Parse error on line 275 of my css file. I had missed the second closing curly bracket on my zoom on my hero image. 
+Initially one error was found, there was a Parse error on line 275 of my css file. I had missed the second closing curly bracket on my zoom on my hero image.
 
 After fixing this, no errors were returned when passing through the validator by direct input for a final time.  
 ![Jigsaw Validator Result](assets/testing/validator-css.png)
@@ -114,6 +117,5 @@ I reached out to both my cohort and the peer code review channel on slack to gat
 **Unresolved Bugs**
 
 The plan page overflows the viewport width between 575px and 767px, pushing the menu icon off the side of the page additionally there is some side scroll on the page on mobile devices.  
-
 
 [Return to README](README.md)
